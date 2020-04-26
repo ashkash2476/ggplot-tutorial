@@ -1,0 +1,2 @@
+ggplot(df_sales,aes(x=year_num,y=Global_sum))+
+       geom_line()
